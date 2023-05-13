@@ -1,4 +1,4 @@
-# Mapping data to components
+# Mapping data to components  and js  map , filter ,reduce ,find ,findIndex function  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
